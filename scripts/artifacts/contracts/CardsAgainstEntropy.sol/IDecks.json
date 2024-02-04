@@ -1,0 +1,61 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IDecks",
+  "sourceName": "contracts/CardsAgainstEntropy.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "getAnswersDeck",
+      "outputs": [
+        {
+          "internalType": "string[]",
+          "name": "",
+          "type": "string[]"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "index",
+          "type": "uint256"
+        },
+        {
+          "internalType": "bool",
+          "name": "isQuestion",
+          "type": "bool"
+        }
+      ],
+      "name": "getEntry",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "getQuestionsDeck",
+      "outputs": [
+        {
+          "internalType": "string[]",
+          "name": "",
+          "type": "string[]"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.19.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "@pythnetwork/entropy-sdk-solidity": "^1.1.0",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "ethers": "^6.10.0",
+    "web3": "^4.3.0",
+    "yargs": "^17.7.2"
+  }
+}
