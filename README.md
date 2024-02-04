@@ -107,3 +107,25 @@ The client side has the following structure:
 - Contract: it has the smart contract's json (which contains the ABI) and the contract address.
 - Page: These are the screens of the dApp. They use the components to make the code shorter and more organized. They also listen from context to use the required variables.
 - main.js: contains the dApps routing logic (router-dom).
+
+
+### BlockScout Challenge
+
+Blockscout challenge was also done.
+
+![Screenshot 2024-02-05 at 00 03 19](https://github.com/uri011/pyth-challenge/assets/62013927/27c379dd-ad17-471d-a0e6-7d8e54b1ff7e)
+
+![Screenshot 2024-02-05 at 00 04 35](https://github.com/uri011/pyth-challenge/assets/62013927/256a4ee1-5c4f-401c-8936-6b1b4c8c7126)
+
+### Captures of the Hardhat tests
+
+![Screenshot 2024-02-04 at 22 18 05](https://github.com/uri011/pyth-challenge/assets/62013927/f7875877-e0d7-4d1d-872b-fa58d541a424)
+
+![Screenshot 2024-02-04 at 22 18 20](https://github.com/uri011/pyth-challenge/assets/62013927/55cfa01d-b0eb-480f-ad42-0db68125b3fc)
+
+![Screenshot 2024-02-04 at 23 56 54](https://github.com/uri011/pyth-challenge/assets/62013927/92d84d8c-b0c9-4e12-b8c7-00744933769b)
+
+![Screenshot 2024-02-04 at 23 57 07](https://github.com/uri011/pyth-challenge/assets/62013927/61d51b45-1cd0-4d4d-87a7-d3eb5f7f728b)
+
+
+
